@@ -1,5 +1,9 @@
 # Quantum Pulse Optimization & Crosstalk Simulator (QPOCS)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub](https://img.shields.io/badge/GitHub-QPOCS-181717?logo=github)](https://github.com/unbound01/QPOCS-Crosstalk-Aware-Quantum-Pulse-Optimization-Framework)
+
 Research-grade simulation framework for quantum gate fidelity under timing jitter and crosstalk.
 
 ## Quick Start
@@ -145,12 +149,12 @@ qpocs/
 
 If you use QPOCS in your research, please cite:
 
-```
+```bibtex
 @software{qpocs2026,
   title={QPOCS: Quantum Pulse Optimization \& Crosstalk Simulator},
-  author={Your Name},
+  author={unbound01},
   year={2026},
-  url={https://github.com/yourusername/qpocs}
+  url={https://github.com/unbound01/QPOCS-Crosstalk-Aware-Quantum-Pulse-Optimization-Framework}
 }
 ```
 
@@ -164,4 +168,4 @@ Contributions welcome! Please see CONTRIBUTING.md for guidelines.
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact [your email].
+For questions or issues, please open a [GitHub issue](https://github.com/unbound01/QPOCS-Crosstalk-Aware-Quantum-Pulse-Optimization-Framework/issues).

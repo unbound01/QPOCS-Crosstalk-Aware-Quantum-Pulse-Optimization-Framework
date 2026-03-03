@@ -709,7 +709,7 @@ python main.py optimize-1d     # 1D optimization
 python main.py optimize-2d     # 2D optimization
 ```
 
-Source code available at: [repository URL]
+Source code available at: https://github.com/unbound01/QPOCS-Crosstalk-Aware-Quantum-Pulse-Optimization-Framework
 
 ---
 
